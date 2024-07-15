@@ -46,5 +46,14 @@
       "path": "dist/udixio-theme.esm.js",
       "limit": "10 KB"
     }
-  ]
+  ],
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^11.1.4",
+    "@tsconfig/recommended": "^1.0.7",
+    "dts-cli": "^2.0.5",
+    "husky": "^9.0.11",
+    "size-limit": "^11.1.4",
+    "tslib": "^2.6.3",
+    "typescript": "^5.5.3"
+  }
 }
